@@ -1,0 +1,8 @@
+{
+  "name": "rest_api_node",
+  "version": "1.0.0",
+  "description": "api module",
+  "main": "index.js",
+  "author": "mike",
+  "license": "MIT"
+}
